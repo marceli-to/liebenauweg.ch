@@ -3,7 +3,7 @@
     <a 
       href="{{ route('page.home') }}"
       title="Startseite"
-      class="h-30 md:h-60 w-auto block">
+      class="h-60 md:h-80 xl:h-100 w-auto block">
       <x-icons.logo class="w-auto h-full" />
     </a>
   </x-layout.inner>
