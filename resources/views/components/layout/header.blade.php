@@ -1,5 +1,5 @@
 <header class="relative">
-  <x-layout.inner class="relative flex justify-end w-full px-15 md:px-25 py-15 md:py-30">
+  <x-layout.inner class="relative flex justify-center w-full px-15 md:px-25 py-15 md:py-30">
     <a 
       href="{{ route('page.home') }}"
       title="Startseite"
